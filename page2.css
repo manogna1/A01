@@ -1,0 +1,35 @@
+body{
+    color:white;  
+      background-image:url("http://globalmedicalco.com/photos/globalmedicalco/12/58881.jpg");
+    }
+
+    #demo{
+    background-color:whitesmoke;
+    color: maroon;
+    border:dotted SlateBlue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    #foot{
+    background-color: red;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    }
+    .head3{
+        Background-color:grey;
+        border:solid gray;
+        text-align:center;
+    }
+    .container{
+        margin-left: 100px;
+        margin-right:100px;
+    }
+h3{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 2px dotted black;
+            background-color:burlywood;
+        }
